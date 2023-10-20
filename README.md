@@ -1,5 +1,13 @@
 # Home-Field-Advantage-Analysis
 
+This was a final project for Brown University course cs1951A: Data Science taught by professor Lorenzo Di stefani
+The original group repository for this project is marked private. Thus for illustrative purposes, the contents have been imported to this repository.
+In addition to myself, credit should be attributed to the following group members:
+nicolasperez19
+zaultavangar
+typhamswann
+
+
 Three hypotheses:
 <br />
 <br />
