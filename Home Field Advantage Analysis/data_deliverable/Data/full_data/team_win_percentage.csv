@@ -1,0 +1,154 @@
+team_id,home_win_pct,team_name,city,league
+0,48.379629629629626,PIT,"Pittsburgh, Pennsylvania",MLB
+1,57.9185520361991,TB,"St. Petersburg, Florida",MLB
+2,47.477064220183486,KC,"Kansas City, Missouri",MLB
+3,56.27802690582959,MIL,"Milwaukee, Wisconsin",MLB
+4,43.57798165137615,BAL,"Baltimore, Maryland",MLB
+5,51.48063781321185,TEX,"Arlington, Texas",MLB
+6,52.21238938053098,ATL,"Atlanta, Georgia",MLB
+7,49.42263279445728,CIN,"Cincinnati, Ohio",MLB
+8,48.96551724137931,SD,"San Diego, California",MLB
+9,49.54545454545455,ARI,"Phoenix, Arizona",MLB
+10,50.34324942791763,LAA,"Anaheim, California",MLB
+11,56.54205607476636,OAK,"Oakland, California",MLB
+12,63.69710467706013,NYY,"Bronx, New York",MLB
+13,58.88888888888889,CLE,"Cleveland, Ohio",MLB
+14,47.55244755244755,MIA,"Miami, Florida",MLB
+15,53.964757709251096,WSH,"Washington, D.C.",MLB
+16,52.595936794582386,SF,"San Francisco, California",MLB
+17,44.36781609195402,DET,"Detroit, Michigan",MLB
+18,52.054794520547944,NYM,"Queens, New York",MLB
+19,51.598173515981735,CHW,"Chicago, Illinois",MLB
+20,54.69107551487414,COL,"Denver, Colorado",MLB
+21,52.18579234972678,TOR,"Toronto, Ontario",MLB
+22,51.96304849884527,SEA,"Seattle, Washington",MLB
+23,57.6837416481069,BOS,"Boston, Massachusetts",MLB
+24,54.02298850574713,PHI,"Philadelphia, Pennsylvania",MLB
+25,51.8348623853211,MIN,"Minneapolis, Minnesota",MLB
+26,53.775743707093824,STL,"St. Louis, Missouri",MLB
+27,59.78021978021978,CHC,"Chicago, Illinois",MLB
+28,62.31263383297645,HOU,"Houston, Texas",MLB
+29,66.95095948827291,LAD,"Los Angeles, California",MLB
+30,71.50837988826815,New England Revolution,"Boston, Massachusetts",MLS
+31,63.63636363636363,DC United,"Washington, D.C.",MLS
+32,65.0,Colorado Rapids,"Denver, Colorado",MLS
+33,70.05347593582889,New York Red Bulls,"New York, New York",MLS
+34,74.55621301775149,FC Dallas,"Dallas, Texas",MLS
+35,53.2608695652174,Chivas USA,"Los Angeles, California",MLS
+36,73.4567901234568,Real Salt Lake,"Salt Lake City, Utah",MLS
+37,62.17948717948718,Toronto FC,"Toronto, Ontario",MLS
+38,60.83333333333333,San Jose Earthquakes,"San Jose, California",MLS
+39,76.77419354838709,Seattle Sounders FC,"Seattle, Washington",MLS
+40,68.50393700787401,Philadelphia Union,"Philadelphia, Pennsylvania",MLS
+41,64.15094339622641,Vancouver Whitecaps,"Vancouver, British Columbia",MLS
+42,73.68421052631578,Portland Timbers,"Portland, Oregon",MLS
+43,62.60869565217392,CF Montréal,"Montréal, Quebec",MLS
+44,75.60975609756098,NYCFC,"New York, New York",MLS
+45,53.94736842105263,Orlando City SC,"Orlando, Florida",MLS
+46,79.36507936507937,Atlanta United FC,"Atlanta, Georgia",MLS
+47,70.9090909090909,Minnesota United FC,"Saint Paul, Minnesota",MLS
+48,18.181818181818183,FC Cincinnati,"Cincinnati, Ohio",MLS
+49,89.47368421052632,Nashville SC,"Nashville, Tennessee",MLS
+50,59.25925925925925,Inter Miami CF,"Miami, Florida",MLS
+51,66.66666666666666,Chicago Fire FC,"Chicago, Illinois",MLS
+52,83.72093023255815,LAFC,"Los Angeles, California",MLS
+53,77.77777777777779,Charlotte FC,"Charlotte, North Carolina",MLS
+54,46.666666666666664,Austin FC,"Austin, Texas",MLS
+55,54.64159811985899,New Orleans Pelicans,"New Orleans, Louisiana",NBA
+56,65.67505720823799,Utah Jazz,"Salt Lake City, Utah",NBA
+57,60.15200868621064,Cleveland Cavaliers,"Cleveland, Ohio",NBA
+58,54.1002277904328,Philadelphia 76ers,"Philadelphia, Pennsylvania",NBA
+59,57.07814269535674,Atlanta Hawks,"Atlanta, Georgia",NBA
+60,63.473684210526315,Boston Celtics,"Boston, Massachusetts",NBA
+61,50.96700796359499,Brooklyn Nets,"New York, New York",NBA
+62,47.14285714285714,New York Knicks,"New York, New York",NBA
+63,63.44444444444445,Houston Rockets,"Houston, Texas",NBA
+64,47.22550177095632,Minnesota Timberwolves,"Minneapolis, Minnesota",NBA
+65,60.02239641657335,Oklahoma City Thunder,"Oklahoma City, Oklahoma",NBA
+66,49.642857142857146,Sacramento Kings,"Sacramento, California",NBA
+67,59.579180509413064,Los Angeles Clippers,"Los Angeles, California",NBA
+68,56.69988925802879,Detroit Pistons,"Detroit, Michigan",NBA
+69,65.90198123044838,Miami Heat,"Miami, Florida",NBA
+70,57.752808988764045,Phoenix Suns,"Phoenix, Arizona",NBA
+71,67.46849942726232,Denver Nuggets,"Denver, Colorado",NBA
+72,61.95286195286195,Indiana Pacers,"Indianapolis, Indiana",NBA
+73,59.37149270482603,Toronto Raptors,"Toronto, Ontario",NBA
+74,59.133126934984524,Los Angeles Lakers,"Los Angeles, California",NBA
+75,57.75764439411098,Milwaukee Bucks,"Milwaukee, Wisconsin",NBA
+76,49.122807017543856,Charlotte Hornets,"Charlotte, North Carolina",NBA
+77,57.50834260289211,Chicago Bulls,"Chicago, Illinois",NBA
+78,65.49062844542448,Dallas Mavericks,"Dallas, Texas",NBA
+79,59.750566893424036,Memphis Grizzlies,"Memphis, Tennessee",NBA
+80,52.1689497716895,Orlando Magic,"Orlando, Florida",NBA
+81,52.99647473560517,Washington Wizards,"Washington, D.C.",NBA
+82,60.160734787600454,Portland Trail Blazers,"Portland, Oregon",NBA
+83,66.81367144432194,Golden State Warriors,"San Francisco, California",NBA
+84,72.7176220806794,San Antonio Spurs,"San Antonio, Texas",NBA
+85,48.25581395348838,New York Giants,"New York, New York",NFL
+86,56.896551724137936,Buffalo Bills,"Buffalo, New York",NFL
+87,51.13636363636363,Chicago Bears,"Chicago, Illinois",NFL
+88,53.714285714285715,Cincinnati Bengals,"Cincinnati, Ohio",NFL
+89,41.42011834319527,Cleveland Browns,"Cleveland, Ohio",NFL
+90,70.1086956521739,Green Bay Packers,"Green Bay, Wisconsin",NFL
+91,53.75722543352601,Tennessee Titans,"Nashville, Tennessee",NFL
+92,52.94117647058824,Miami Dolphins,"Miami, Florida",NFL
+93,43.27485380116959,Washington Commanders,"Washington, D.C.",NFL
+94,53.714285714285715,Carolina Panthers,"Charlotte, North Carolina",NFL
+95,46.783625730994146,Jacksonville Jaguars,"Jacksonville, Florida",NFL
+96,61.111111111111114,Denver Broncos,"Denver, Colorado",NFL
+97,43.15068493150685,Oakland Raiders,"Oakland, California",NFL
+98,48.58757062146893,Tampa Bay Buccaneers,"Tampa Bay, Florida",NFL
+99,48.57142857142857,Houston Texans,"Houston, Texas",NFL
+100,78.57142857142857,New England Patriots,"Foxborough, Massachusetts",NFL
+101,55.42857142857143,Atlanta Falcons,"Atlanta, Georgia",NFL
+102,59.42857142857143,Dallas Cowboys,"Dallas, Texas",NFL
+103,66.29834254143645,Indianapolis Colts,"Indianapolis, Indiana",NFL
+104,63.24324324324324,Kansas City Chiefs,"Kansas City, Missouri",NFL
+105,59.77653631284916,New Orleans Saints,"New Orleans, Louisiana",NFL
+106,49.411764705882355,New York Jets,"New York, New York",NFL
+107,70.28571428571428,Baltimore Ravens,"Baltimore, Maryland",NFL
+108,46.017699115044245,St. Louis Rams,"St. Louis, Missouri",NFL
+109,68.13186813186813,Seattle Seahawks,"Seattle, Washington",NFL
+110,64.36781609195403,Minnesota Vikings,"Minneapolis, Minnesota",NFL
+111,60.8,San Diego Chargers,"San Diego, California",NFL
+112,55.0561797752809,San Francisco 49ers,"San Francisco, California",NFL
+113,69.61325966850829,Pittsburgh Steelers,"Pittsburgh, Pennsylvania",NFL
+114,59.45945945945946,Philadelphia Eagles,"Philadelphia, Pennsylvania",NFL
+115,52.29885057471264,Arizona Cardinals,"Phoenix, Arizona",NFL
+116,43.19526627218935,Detroit Lions,"Detroit, Michigan",NFL
+117,56.451612903225815,Los Angeles Rams,"Los Angeles, California",NFL
+118,53.06122448979592,Los Angeles Chargers,"Los Angeles, California",NFL
+119,44.0,Las Vegas Raiders,"Las Vegas, Nevada",NFL
+120,54.1507024265645,Chicago Blackhawks,"Chicago, Illinois",NHL
+121,49.863760217983646,Buffalo Sabres,"Buffalo, New York",NHL
+122,54.46428571428571,Winnipeg Jets,"Winnipeg, Manitoba",NHL
+123,51.80722891566265,Carolina Hurricanes,"Raleigh, North Carolina",NHL
+124,54.774535809018566,Minnesota Wild,"Saint Paul, Minnesota",NHL
+125,47.97843665768194,Florida Panthers,"Miami, Florida",NHL
+126,53.350854139290405,Colorado Avalanche,"Denver, Colorado",NHL
+127,56.94087403598972,Dallas Stars,"Dallas, Texas",NHL
+128,45.9375,Arizona Coyotes,"Phoenix, Arizona",NHL
+129,55.39280958721704,Calgary Flames,"Calgary, Alberta",NHL
+130,50.847457627118644,NY Islanders Islanders,"New York, New York",NHL
+131,58.84615384615385,Nashville Predators,"Nashville, Tennessee",NHL
+132,59.378881987577635,Tampa Bay Lightning,"Tampa Bay, Florida",NHL
+133,55.064935064935064,Vancouver Canucks,"Vancouver, British Columbia",NHL
+134,55.33249686323713,St Louis Blues,"St. Louis, Missouri",NHL
+135,61.08786610878661,Vegas Golden Knights,"Las Vegas, Nevada",NHL
+136,46.08108108108108,Edmonton Oilers,"Edmonton, Alberta",NHL
+137,57.345360824742265,Anaheim Ducks,"Anaheim, California",NHL
+138,52.467532467532465,Los Angeles Kings,"Los Angeles, California",NHL
+139,58.74213836477987,Pittsburgh Penguins,"Pittsburgh, Pennsylvania",NHL
+140,59.14786967418546,San Jose Sharks,"San Jose, California",NHL
+141,51.18421052631579,Columbus Blue Jackets,"Columbus, Ohio",NHL
+142,52.38095238095239,Ottawa Senators,"Ottawa, Ontario",NHL
+143,52.994791666666664,Montreal Canadiens,"Montréal, Quebec",NHL
+144,57.73584905660377,Washington Capitals,"Washington, D.C.",NHL
+145,51.00401606425703,Toronto Maple Leafs,"Toronto, Ontario",NHL
+146,56.61764705882353,Boston Bruins,"Boston, Massachusetts",NHL
+147,52.8809218950064,NY Rangers Rangers,"New York, New York",NHL
+148,54.35630689206762,Philadelphia Flyers,"Philadelphia, Pennsylvania",NHL
+149,53.70121130551817,New Jersey Devils,"Newark, New Jersey",NHL
+150,49.528301886792455,Phoenix Coyotes,"Phoenix, Arizona",NHL
+151,54.37665782493368,Detroit Red Wings,"Detroit, Michigan",NHL
+152,47.266881028938904,Atlanta Thrashers,"Atlanta, Georgia",NHL

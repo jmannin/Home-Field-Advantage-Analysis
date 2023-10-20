@@ -1,0 +1,101 @@
+home_team_name,away_team_name,home_wins,year,stadium_name,city,attendance,capacity,league
+San Francisco 49ers,New York Giants,1,2003,Candlestick Park,"San Francisco, California",,"69,732",NFL
+Atlanta Falcons,Carolina Panthers,0,2020,Mercedes-Benz Stadium,"Atlanta, Georgia",,71000,NFL
+Cincinnati Bengals,Green Bay Packers,1,2013,Paycor Stadium,"Cincinnati, Ohio",,"65,515",NFL
+Cleveland Browns,Carolina Panthers,0,2002,FirstEnergy Stadium,"Cleveland, Ohio",,"68,000",NFL
+New York Giants,Los Angeles Chargers,0,2017,MetLife Stadium,"New York, New York",,"82,500",NFL
+San Diego Chargers,Tennessee Titans,1,2012,Qualcomm Stadium,"San Diego, California",,"71,500",NFL
+Arizona Cardinals,Pittsburgh Steelers,0,2009,State Farm Stadium,"Phoenix, Arizona",,"63,400",NFL
+Minnesota Vikings,Green Bay Packers,0,2004,Mall of America Field,"Minneapolis, Minnesota",,"64,111",NFL
+New England Patriots,Kansas City Chiefs,1,2008,Gillette Stadium,"Foxborough, Massachusetts",,"68,756",NFL
+St. Louis Rams,Seattle Seahawks,0,2006,Edward Jones Dome,"St. Louis, Missouri",,66965,NFL
+Tennessee Titans,Las Vegas Raiders,1,2007,Nissan Stadium,"Nashville, Tennessee",,"69,143",NFL
+New York Giants,Carolina Panthers,0,2006,MetLife Stadium,"New York, New York",,"82,500",NFL
+New Orleans Saints,Washington Commanders,1,2017,Caesars Superdome,"New Orleans, Louisiana",,"76,468",NFL
+Arizona Cardinals,New Orleans Saints,1,2004,State Farm Stadium,"Phoenix, Arizona",,"63,400",NFL
+Dallas Cowboys,Washington Commanders,1,2018,AT&T Stadium,"Dallas, Texas",,"80,000",NFL
+Carolina Panthers,New Orleans Saints,0,2005,Bank of America Stadium,"Charlotte, North Carolina",,"73,778",NFL
+Tennessee Titans,Dallas Cowboys,0,2006,Nissan Stadium,"Nashville, Tennessee",,"69,143",NFL
+Philadelphia Eagles,Dallas Cowboys,1,2002,Lincoln Financial Field,"Philadelphia, Pennsylvania",,"69,176",NFL
+San Diego Chargers,Los Angeles Rams,1,2014,Qualcomm Stadium,"San Diego, California",,"71,500",NFL
+Miami Dolphins,New York Jets,0,2004,Hard Rock Stadium,"Miami, Florida",,"65,326",NFL
+New York Giants,Philadelphia Eagles,0,2006,MetLife Stadium,"New York, New York",,"82,500",NFL
+New England Patriots,San Francisco 49ers,1,2005,Gillette Stadium,"Foxborough, Massachusetts",,"68,756",NFL
+San Francisco 49ers,Seattle Seahawks,0,2019,Levi's Stadium,"San Francisco, California",,"68,500",NFL
+Tennessee Titans,Carolina Panthers,0,2015,Nissan Stadium,"Nashville, Tennessee",,"69,143",NFL
+Baltimore Ravens,Cleveland Browns,0,2007,M&T Bank Stadium,"Baltimore, Maryland",,"71,008",NFL
+New York Jets,Buffalo Bills,0,2021,MetLife Stadium,"New York, New York",,"82,500",NFL
+Oakland Raiders,Kansas City Chiefs,1,2014,Oakland Coliseum,"Oakland, California",,"53,250",NFL
+Detroit Lions,Philadelphia Eagles,0,2022,Ford Field,"Detroit, Michigan",,"65,000",NFL
+Miami Dolphins,Dallas Cowboys,0,2007,Hard Rock Stadium,"Miami, Florida",,"65,326",NFL
+New York Jets,Cincinnati Bengals,1,2021,MetLife Stadium,"New York, New York",,"82,500",NFL
+Indianapolis Colts,Houston Texans,0,2015,Lucas Oil Stadium,"Indianapolis, Indiana",,"63,000",NFL
+St. Louis Rams,Jacksonville Jaguars,1,2013,Edward Jones Dome,"St. Louis, Missouri",,66965,NFL
+Buffalo Bills,New York Jets,1,2013,Highmark Stadium,"Buffalo, New York",,"73,967",NFL
+Washington Commanders,Baltimore Ravens,1,2012,FedEx Field,"Washington, D.C.",,"79,000",NFL
+New York Giants,Cleveland Browns,1,2004,MetLife Stadium,"New York, New York",,"82,500",NFL
+Carolina Panthers,Atlanta Falcons,0,2007,Bank of America Stadium,"Charlotte, North Carolina",,"73,778",NFL
+Los Angeles Chargers,Seattle Seahawks,0,2022,SoFi Stadium,"Los Angeles, California",,70240,NFL
+Atlanta Falcons,Washington Commanders,1,2013,Georgia Dome,"Atlanta, Georgia",,"71,250",NFL
+Washington Commanders,Jacksonville Jaguars,1,2014,FedEx Field,"Washington, D.C.",,"79,000",NFL
+Chicago Bears,Los Angeles Rams,1,2012,Soldier Field,"Chicago, Illinois",,"61,500",NFL
+Minnesota Vikings,Detroit Lions,1,2009,Mall of America Field,"Minneapolis, Minnesota",,"64,111",NFL
+San Francisco 49ers,Indianapolis Colts,0,2013,Candlestick Park,"San Francisco, California",,"69,732",NFL
+Seattle Seahawks,Green Bay Packers,1,2012,Lumen Field,"Seattle, Washington",,"67,000",NFL
+San Diego Chargers,Kansas City Chiefs,1,2002,Qualcomm Stadium,"San Diego, California",,"71,500",NFL
+New York Giants,Atlanta Falcons,0,2002,MetLife Stadium,"New York, New York",,"82,500",NFL
+Kansas City Chiefs,San Francisco 49ers,1,2020,Arrowhead Stadium,"Kansas City, Missouri",,"76,416",NFL
+Dallas Cowboys,Philadelphia Eagles,0,2010,AT&T Stadium,"Dallas, Texas",,"80,000",NFL
+Philadelphia Eagles,Baltimore Ravens,1,2012,Lincoln Financial Field,"Philadelphia, Pennsylvania",,"69,176",NFL
+Kansas City Chiefs,Los Angeles Chargers,1,2019,Arrowhead Stadium,"Kansas City, Missouri",,"76,416",NFL
+Cleveland Browns,Baltimore Ravens,1,2021,FirstEnergy Stadium,"Cleveland, Ohio",,"68,000",NFL
+Chicago Bears,Carolina Panthers,0,2006,Soldier Field,"Chicago, Illinois",,"61,500",NFL
+Detroit Lions,Chicago Bears,0,2010,Ford Field,"Detroit, Michigan",,"65,000",NFL
+New Orleans Saints,Tampa Bay Buccaneers,1,2019,Caesars Superdome,"New Orleans, Louisiana",,"76,468",NFL
+Carolina Panthers,Dallas Cowboys,1,2018,Bank of America Stadium,"Charlotte, North Carolina",,"73,778",NFL
+Oakland Raiders,Jacksonville Jaguars,1,2012,Oakland Coliseum,"Oakland, California",,"53,250",NFL
+Cincinnati Bengals,Philadelphia Eagles,0,2008,Paycor Stadium,"Cincinnati, Ohio",,"65,515",NFL
+New York Giants,Houston Texans,1,2014,MetLife Stadium,"New York, New York",,"82,500",NFL
+New England Patriots,Los Angeles Chargers,1,2011,Gillette Stadium,"Foxborough, Massachusetts",,"68,756",NFL
+Jacksonville Jaguars,Detroit Lions,0,2020,TIAA Bank Field,"Jacksonville, Florida",,"67,264",NFL
+Detroit Lions,Minnesota Vikings,0,2012,Ford Field,"Detroit, Michigan",,"65,000",NFL
+Seattle Seahawks,Green Bay Packers,1,2018,Lumen Field,"Seattle, Washington",,"67,000",NFL
+New York Giants,Philadelphia Eagles,0,2014,MetLife Stadium,"New York, New York",,"82,500",NFL
+Indianapolis Colts,Green Bay Packers,1,2004,RCA Dome,"Indianapolis, Indiana",,"65,675",NFL
+New Orleans Saints,Detroit Lions,1,2017,Caesars Superdome,"New Orleans, Louisiana",,"76,468",NFL
+Atlanta Falcons,New Orleans Saints,0,2016,Georgia Dome,"Atlanta, Georgia",,"71,250",NFL
+Seattle Seahawks,Chicago Bears,1,2003,Lumen Field,"Seattle, Washington",,"67,000",NFL
+New Orleans Saints,Tampa Bay Buccaneers,1,2002,Caesars Superdome,"New Orleans, Louisiana",,"76,468",NFL
+Kansas City Chiefs,Los Angeles Chargers,0,2009,Arrowhead Stadium,"Kansas City, Missouri",,"76,416",NFL
+Tennessee Titans,Jacksonville Jaguars,1,2017,Nissan Stadium,"Nashville, Tennessee",,"69,143",NFL
+Indianapolis Colts,Pittsburgh Steelers,0,2011,Lucas Oil Stadium,"Indianapolis, Indiana",,"63,000",NFL
+Kansas City Chiefs,Philadelphia Eagles,1,2017,Arrowhead Stadium,"Kansas City, Missouri",,"76,416",NFL
+San Diego Chargers,Pittsburgh Steelers,0,2015,Qualcomm Stadium,"San Diego, California",,"71,500",NFL
+Los Angeles Chargers,New England Patriots,0,2020,SoFi Stadium,"Los Angeles, California",,70240,NFL
+Jacksonville Jaguars,Las Vegas Raiders,1,2007,TIAA Bank Field,"Jacksonville, Florida",,"67,264",NFL
+Pittsburgh Steelers,Baltimore Ravens,0,2011,Heinz Field,"Pittsburgh, Pennsylvania",,"65,500",NFL
+Minnesota Vikings,Los Angeles Rams,1,2017,U.S. Bank Stadium,"Minneapolis, Minnesota",,"66,200",NFL
+Green Bay Packers,Atlanta Falcons,0,2003,Lambeau Field,"Green Bay, Wisconsin",,"80,735",NFL
+Seattle Seahawks,Philadelphia Eagles,0,2002,Lumen Field,"Seattle, Washington",,"67,000",NFL
+New York Giants,Indianapolis Colts,0,2014,MetLife Stadium,"New York, New York",,"82,500",NFL
+New Orleans Saints,Dallas Cowboys,1,2013,Caesars Superdome,"New Orleans, Louisiana",,"76,468",NFL
+Jacksonville Jaguars,Washington Commanders,0,2010,TIAA Bank Field,"Jacksonville, Florida",,"67,264",NFL
+Buffalo Bills,Green Bay Packers,1,2014,Highmark Stadium,"Buffalo, New York",,"73,967",NFL
+Atlanta Falcons,Tampa Bay Buccaneers,1,2006,Georgia Dome,"Atlanta, Georgia",,"71,250",NFL
+Cleveland Browns,Jacksonville Jaguars,0,2005,FirstEnergy Stadium,"Cleveland, Ohio",,"68,000",NFL
+St. Louis Rams,New York Jets,0,2012,Edward Jones Dome,"St. Louis, Missouri",,66965,NFL
+Dallas Cowboys,Carolina Panthers,0,2015,AT&T Stadium,"Dallas, Texas",,"80,000",NFL
+Atlanta Falcons,Tampa Bay Buccaneers,1,2018,Mercedes-Benz Stadium,"Atlanta, Georgia",,71000,NFL
+San Francisco 49ers,Jacksonville Jaguars,1,2009,Candlestick Park,"San Francisco, California",,"69,732",NFL
+Buffalo Bills,Minnesota Vikings,1,2014,Highmark Stadium,"Buffalo, New York",,"73,967",NFL
+Cincinnati Bengals,Los Angeles Chargers,0,2020,Paycor Stadium,"Cincinnati, Ohio",,"65,515",NFL
+Denver Broncos,Atlanta Falcons,0,2016,Empower Field at Mile High,"Denver, Colorado",,"76,125",NFL
+Green Bay Packers,New York Giants,1,2016,Lambeau Field,"Green Bay, Wisconsin",,"80,735",NFL
+Houston Texans,Las Vegas Raiders,1,2019,NRG Stadium,"Houston, Texas",,"71,500",NFL
+New York Jets,Los Angeles Chargers,0,2017,MetLife Stadium,"New York, New York",,"82,500",NFL
+Oakland Raiders,Kansas City Chiefs,1,2002,Oakland Coliseum,"Oakland, California",,"53,250",NFL
+Detroit Lions,Chicago Bears,0,2008,Ford Field,"Detroit, Michigan",,"65,000",NFL
+Los Angeles Chargers,Miami Dolphins,0,2017,StubHub Center,"Los Angeles, California",,"27,000",NFL
+Tampa Bay Buccaneers,Chicago Bears,1,2016,Raymond James Stadium,"Tampa Bay, Florida",,"65,890",NFL
+Jacksonville Jaguars,Washington Commanders,0,2018,TIAA Bank Field,"Jacksonville, Florida",,"67,264",NFL
+New York Jets,Tennessee Titans,1,2021,MetLife Stadium,"New York, New York",,"82,500",NFL

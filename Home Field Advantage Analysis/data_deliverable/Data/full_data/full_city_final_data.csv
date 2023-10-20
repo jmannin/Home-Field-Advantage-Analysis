@@ -1,0 +1,154 @@
+team_id,team_name,city,elevation,median_regional_income
+0,PIT,"Pittsburgh, Pennsylvania",1370,54306
+1,TB,"St. Petersburg, Florida",44,64375
+2,KC,"Kansas City, Missouri",910,60042
+3,MIL,"Milwaukee, Wisconsin",617,45318
+4,BAL,"Baltimore, Maryland",480,54124
+5,TEX,"Arlington, Texas",604,65481
+6,ATL,"Atlanta, Georgia",1050,69164
+7,CIN,"Cincinnati, Ohio",959,45235
+8,SD,"San Diego, California",1591,89457
+9,ARI,"Phoenix, Arizona",1086,64927
+10,LAA,"Anaheim, California",157,81806
+11,OAK,"Oakland, California",43,85628
+12,NYY,"Bronx, New York",280,43726
+13,CLE,"Cleveland, Ohio",653,33678
+14,MIA,"Miami, Florida",42,47860
+15,WSH,"Washington, D.C.",409,93547
+16,SF,"San Francisco, California",934,126187
+17,DET,"Detroit, Michigan",656,34762
+18,NYM,"Queens, New York",258,75886
+19,CHW,"Chicago, Illinois",672,65781
+20,COL,"Denver, Colorado",5680,78177
+21,TOR,"Toronto, Ontario",251,39200
+22,SEA,"Seattle, Washington",520,105391
+23,BOS,"Boston, Massachusetts",46,81744
+24,PHI,"Philadelphia, Pennsylvania",39,52649
+25,MIN,"Minneapolis, Minnesota",830,70099
+26,STL,"St. Louis, Missouri",614,48751
+27,CHC,"Chicago, Illinois",672,65781
+28,HOU,"Houston, Texas",80,56019
+29,LAD,"Los Angeles, California",5075,69778
+30,New England Revolution,"Boston, Massachusetts",46,81744
+31,DC United,"Washington, D.C.",409,93547
+32,Colorado Rapids,"Denver, Colorado",5680,78177
+33,New York Red Bulls,"New York, New York",33,70663
+34,FC Dallas,"Dallas, Texas",420,58231
+35,Chivas USA,"Los Angeles, California",5075,69778
+36,Real Salt Lake,"Salt Lake City, Utah",4265,65880
+37,Toronto FC,"Toronto, Ontario",251,39200
+38,San Jose Earthquakes,"San Jose, California",82,125075
+39,Seattle Sounders FC,"Seattle, Washington",520,105391
+40,Philadelphia Union,"Philadelphia, Pennsylvania",39,52649
+41,Vancouver Whitecaps,"Vancouver, British Columbia",501,42000
+42,Portland Timbers,"Portland, Oregon",1188,78476
+43,CF Montréal,"Montréal, Quebec",764,36800
+44,NYCFC,"New York, New York",33,70663
+45,Orlando City SC,"Orlando, Florida",89,58968
+46,Atlanta United FC,"Atlanta, Georgia",1050,69164
+47,Minnesota United FC,"Saint Paul, Minnesota",787,63483
+48,FC Cincinnati,"Cincinnati, Ohio",959,45235
+49,Nashville SC,"Nashville, Tennessee",554,65565
+50,Inter Miami CF,"Miami, Florida",42,47860
+51,Chicago Fire FC,"Chicago, Illinois",672,65781
+52,LAFC,"Los Angeles, California",5075,69778
+53,Charlotte FC,"Charlotte, North Carolina",761,68367
+54,Austin FC,"Austin, Texas",489,78965
+55,New Orleans Pelicans,"New Orleans, Louisiana",20,45594
+56,Utah Jazz,"Salt Lake City, Utah",4265,65880
+57,Cleveland Cavaliers,"Cleveland, Ohio",653,33678
+58,Philadelphia 76ers,"Philadelphia, Pennsylvania",39,52649
+59,Atlanta Hawks,"Atlanta, Georgia",1050,69164
+60,Boston Celtics,"Boston, Massachusetts",46,81744
+61,Brooklyn Nets,"New York, New York",33,70663
+62,New York Knicks,"New York, New York",33,70663
+63,Houston Rockets,"Houston, Texas",80,56019
+64,Minnesota Timberwolves,"Minneapolis, Minnesota",830,70099
+65,Oklahoma City Thunder,"Oklahoma City, Oklahoma",1198,59679
+66,Sacramento Kings,"Sacramento, California",26,71074
+67,Los Angeles Clippers,"Los Angeles, California",5075,69778
+68,Detroit Pistons,"Detroit, Michigan",656,34762
+69,Miami Heat,"Miami, Florida",42,47860
+70,Phoenix Suns,"Phoenix, Arizona",1086,64927
+71,Denver Nuggets,"Denver, Colorado",5680,78177
+72,Indiana Pacers,"Indianapolis, Indiana",718,54321
+73,Toronto Raptors,"Toronto, Ontario",251,39200
+74,Los Angeles Lakers,"Los Angeles, California",5075,69778
+75,Milwaukee Bucks,"Milwaukee, Wisconsin",617,45318
+76,Charlotte Hornets,"Charlotte, North Carolina",761,68367
+77,Chicago Bulls,"Chicago, Illinois",672,65781
+78,Dallas Mavericks,"Dallas, Texas",420,58231
+79,Memphis Grizzlies,"Memphis, Tennessee",337,43981
+80,Orlando Magic,"Orlando, Florida",89,58968
+81,Washington Wizards,"Washington, D.C.",409,93547
+82,Portland Trail Blazers,"Portland, Oregon",1188,78476
+83,Golden State Warriors,"San Francisco, California",934,126187
+84,San Antonio Spurs,"San Antonio, Texas",650,55084
+85,New York Giants,"New York, New York",33,70663
+86,Buffalo Bills,"Buffalo, New York",600,42186
+87,Chicago Bears,"Chicago, Illinois",672,65781
+88,Cincinnati Bengals,"Cincinnati, Ohio",959,45235
+89,Cleveland Browns,"Cleveland, Ohio",653,33678
+90,Green Bay Packers,"Green Bay, Wisconsin",581,55221
+91,Tennessee Titans,"Nashville, Tennessee",554,65565
+92,Miami Dolphins,"Miami, Florida",42,47860
+93,Washington Commanders,"Washington, D.C.",409,93547
+94,Carolina Panthers,"Charlotte, North Carolina",761,68367
+95,Jacksonville Jaguars,"Jacksonville, Florida",16,58263
+96,Denver Broncos,"Denver, Colorado",5680,78177
+97,Oakland Raiders,"Oakland, California",43,85628
+98,Tampa Bay Buccaneers,"Tampa Bay, Florida",48,59893
+99,Houston Texans,"Houston, Texas",80,56019
+100,New England Patriots,"Foxborough, Massachusetts",285,67563
+101,Atlanta Falcons,"Atlanta, Georgia",1050,69164
+102,Dallas Cowboys,"Dallas, Texas",420,58231
+103,Indianapolis Colts,"Indianapolis, Indiana",718,54321
+104,Kansas City Chiefs,"Kansas City, Missouri",910,60042
+105,New Orleans Saints,"New Orleans, Louisiana",20,45594
+106,New York Jets,"New York, New York",33,70663
+107,Baltimore Ravens,"Baltimore, Maryland",480,54124
+108,St. Louis Rams,"St. Louis, Missouri",614,48751
+109,Seattle Seahawks,"Seattle, Washington",520,105391
+110,Minnesota Vikings,"Minneapolis, Minnesota",830,70099
+111,San Diego Chargers,"San Diego, California",1591,89457
+112,San Francisco 49ers,"San Francisco, California",934,126187
+113,Pittsburgh Steelers,"Pittsburgh, Pennsylvania",1370,54306
+114,Philadelphia Eagles,"Philadelphia, Pennsylvania",39,52649
+115,Arizona Cardinals,"Phoenix, Arizona",1086,64927
+116,Detroit Lions,"Detroit, Michigan",656,34762
+117,Los Angeles Rams,"Los Angeles, California",5075,69778
+118,Los Angeles Chargers,"Los Angeles, California",5075,69778
+119,Las Vegas Raiders,"Las Vegas, Nevada",2001,61356
+120,Chicago Blackhawks,"Chicago, Illinois",672,65781
+121,Buffalo Sabres,"Buffalo, New York",600,42186
+122,Winnipeg Jets,"Winnipeg, Manitoba",784,39600
+123,Carolina Hurricanes,"Raleigh, North Carolina",315,72996
+124,Minnesota Wild,"Saint Paul, Minnesota",787,63483
+125,Florida Panthers,"Miami, Florida",42,47860
+126,Colorado Avalanche,"Denver, Colorado",5680,78177
+127,Dallas Stars,"Dallas, Texas",420,58231
+128,Arizona Coyotes,"Phoenix, Arizona",1086,64927
+129,Calgary Flames,"Calgary, Alberta",1045,44400
+130,NY Islanders Islanders,"New York, New York",33,70663
+131,Nashville Predators,"Nashville, Tennessee",554,65565
+132,Tampa Bay Lightning,"Tampa Bay, Florida",48,59893
+133,Vancouver Canucks,"Vancouver, British Columbia",501,42000
+134,St Louis Blues,"St. Louis, Missouri",614,48751
+135,Vegas Golden Knights,"Las Vegas, Nevada",2001,61356
+136,Edmonton Oilers,"Edmonton, Alberta",2116,44000
+137,Anaheim Ducks,"Anaheim, California",157,81806
+138,Los Angeles Kings,"Los Angeles, California",5075,69778
+139,Pittsburgh Penguins,"Pittsburgh, Pennsylvania",1370,54306
+140,San Jose Sharks,"San Jose, California",82,125075
+141,Columbus Blue Jackets,"Columbus, Ohio",781,58575
+142,Ottawa Senators,"Ottawa, Ontario",230,50000
+143,Montreal Canadiens,"Montréal, Quebec",764,36800
+144,Washington Capitals,"Washington, D.C.",409,93547
+145,Toronto Maple Leafs,"Toronto, Ontario",251,39200
+146,Boston Bruins,"Boston, Massachusetts",46,81744
+147,NY Rangers Rangers,"New York, New York",33,70663
+148,Philadelphia Flyers,"Philadelphia, Pennsylvania",39,52649
+149,New Jersey Devils,"Newark, New Jersey",13,41335
+150,Phoenix Coyotes,"Phoenix, Arizona",1086,64927
+151,Detroit Red Wings,"Detroit, Michigan",656,34762
+152,Atlanta Thrashers,"Atlanta, Georgia",1050,69164

@@ -1,0 +1,101 @@
+home_team_name,away_team_name,home_wins,year,stadium_name,city,attendance,capacity,league
+Minnesota Timberwolves,Indiana Pacers,0,2005,Target Center,"Minneapolis, Minnesota",,19356.0,NBA
+Boston Celtics,Brooklyn Nets,0,2004,TD Garden,"Boston, Massachusetts",,18624.0,NBA
+Sacramento Kings,Los Angeles Lakers,1,2015,Golden 1 Center,"Sacramento, California",,17500.0,NBA
+Philadelphia 76ers,Houston Rockets,0,2003,Wells Fargo Center,"Philadelphia, Pennsylvania",,21000.0,NBA
+Philadelphia 76ers,Boston Celtics,1,2005,Wells Fargo Center,"Philadelphia, Pennsylvania",,21000.0,NBA
+Memphis Grizzlies,Houston Rockets,1,2005,FedExForum,"Memphis, Tennessee",,18119.0,NBA
+Golden State Warriors,Oklahoma City Thunder,1,2009,Chase Center,"San Francisco, California",,19596.0,NBA
+Philadelphia 76ers,Miami Heat,0,2005,Wells Fargo Center,"Philadelphia, Pennsylvania",,21000.0,NBA
+San Antonio Spurs,New Orleans Pelicans,1,2018,AT&T Center,"San Antonio, Texas",,18694.0,NBA
+Chicago Bulls,Philadelphia 76ers,0,2004,United Center,"Chicago, Illinois",,21711.0,NBA
+Dallas Mavericks,Milwaukee Bucks,1,2003,American Airlines Center,"Dallas, Texas",,19200.0,NBA
+Oklahoma City Thunder,Golden State Warriors,1,2010,Chesapeake Energy Arena,"Oklahoma City, Oklahoma",,19163.0,NBA
+Sacramento Kings,Golden State Warriors,1,2012,Golden 1 Center,"Sacramento, California",,17500.0,NBA
+Los Angeles Clippers,Sacramento Kings,0,2019,Staples Center,"Los Angeles, California",,19060.0,NBA
+Los Angeles Clippers,Detroit Pistons,1,2013,Staples Center,"Los Angeles, California",,19060.0,NBA
+Philadelphia 76ers,Brooklyn Nets,1,2015,Wells Fargo Center,"Philadelphia, Pennsylvania",,21000.0,NBA
+Los Angeles Lakers,Miami Heat,1,2005,Staples Center,"Los Angeles, California",,19060.0,NBA
+Miami Heat,Boston Celtics,0,2007,AmericanAirlines Arena,"Miami, Florida",,19600.0,NBA
+Cleveland Cavaliers,Phoenix Suns,0,2021,Quicken Loans Arena,"Cleveland, Ohio",,20562.0,NBA
+Oklahoma City Thunder,Orlando Magic,0,2006,Chesapeake Energy Arena,"Oklahoma City, Oklahoma",,19163.0,NBA
+Philadelphia 76ers,Portland Trail Blazers,1,2021,Wells Fargo Center,"Philadelphia, Pennsylvania",,21000.0,NBA
+Golden State Warriors,Minnesota Timberwolves,1,2012,Chase Center,"San Francisco, California",,19596.0,NBA
+Brooklyn Nets,New Orleans Pelicans,0,2014,Barclays Center,"New York, New York",,19000.0,NBA
+Golden State Warriors,Phoenix Suns,0,2006,Chase Center,"San Francisco, California",,19596.0,NBA
+Los Angeles Clippers,Portland Trail Blazers,1,2022,Staples Center,"Los Angeles, California",,19060.0,NBA
+Toronto Raptors,Washington Wizards,1,2019,Scotiabank Arena,"Toronto, Ontario",,19800.0,NBA
+Phoenix Suns,Milwaukee Bucks,1,2006,Talking Stick Resort Arena,"Phoenix, Arizona",,18442.0,NBA
+Phoenix Suns,Sacramento Kings,0,2005,Talking Stick Resort Arena,"Phoenix, Arizona",,18442.0,NBA
+Phoenix Suns,Los Angeles Lakers,0,2016,Talking Stick Resort Arena,"Phoenix, Arizona",,18442.0,NBA
+Phoenix Suns,Golden State Warriors,1,2008,Talking Stick Resort Arena,"Phoenix, Arizona",,18442.0,NBA
+Chicago Bulls,Milwaukee Bucks,1,2011,United Center,"Chicago, Illinois",,21711.0,NBA
+Brooklyn Nets,Sacramento Kings,1,2010,Barclays Center,"New York, New York",,19000.0,NBA
+Denver Nuggets,Utah Jazz,1,2013,Pepsi Center,"Denver, Colorado",,19099.0,NBA
+Phoenix Suns,Miami Heat,0,2010,Talking Stick Resort Arena,"Phoenix, Arizona",,18442.0,NBA
+Indiana Pacers,Orlando Magic,1,2008,Bankers Life Fieldhouse,"Indianapolis, Indiana",,18345.0,NBA
+Utah Jazz,Los Angeles Lakers,1,2007,Vivint Smart Home Arena,"Salt Lake City, Utah",,20148.0,NBA
+Miami Heat,Indiana Pacers,1,2021,AmericanAirlines Arena,"Miami, Florida",,19600.0,NBA
+Miami Heat,Orlando Magic,1,2004,AmericanAirlines Arena,"Miami, Florida",,19600.0,NBA
+Cleveland Cavaliers,Boston Celtics,1,2020,Quicken Loans Arena,"Cleveland, Ohio",,20562.0,NBA
+Denver Nuggets,Minnesota Timberwolves,0,2021,Pepsi Center,"Denver, Colorado",,19099.0,NBA
+Milwaukee Bucks,Chicago Bulls,1,2020,Fiserv Forum,"Milwaukee, Wisconsin",,17500.0,NBA
+Denver Nuggets,Los Angeles Lakers,1,2011,Pepsi Center,"Denver, Colorado",,19099.0,NBA
+Dallas Mavericks,San Antonio Spurs,1,2021,American Airlines Center,"Dallas, Texas",,19200.0,NBA
+Los Angeles Lakers,Detroit Pistons,1,2012,Staples Center,"Los Angeles, California",,19060.0,NBA
+Indiana Pacers,Denver Nuggets,0,2012,Bankers Life Fieldhouse,"Indianapolis, Indiana",,18345.0,NBA
+Minnesota Timberwolves,Houston Rockets,0,2017,Target Center,"Minneapolis, Minnesota",,19356.0,NBA
+Philadelphia 76ers,Los Angeles Clippers,1,2010,Wells Fargo Center,"Philadelphia, Pennsylvania",,21000.0,NBA
+Cleveland Cavaliers,Los Angeles Clippers,0,2020,Quicken Loans Arena,"Cleveland, Ohio",,20562.0,NBA
+Sacramento Kings,Golden State Warriors,1,2010,Golden 1 Center,"Sacramento, California",,17500.0,NBA
+Detroit Pistons,Atlanta Hawks,0,2019,Little Caesars Arena,"Detroit, Michigan",,21000.0,NBA
+Houston Rockets,Golden State Warriors,1,2011,Toyota Center,"Houston, Texas",,18104.0,NBA
+Phoenix Suns,Houston Rockets,1,2007,Talking Stick Resort Arena,"Phoenix, Arizona",,18442.0,NBA
+Los Angeles Clippers,Phoenix Suns,1,2007,Staples Center,"Los Angeles, California",,19060.0,NBA
+Washington Wizards,Cleveland Cavaliers,1,2007,Capital One Arena,"Washington, D.C.",,20647.0,NBA
+Philadelphia 76ers,Toronto Raptors,0,2017,Wells Fargo Center,"Philadelphia, Pennsylvania",,21000.0,NBA
+Chicago Bulls,Detroit Pistons,0,2003,United Center,"Chicago, Illinois",,21711.0,NBA
+Miami Heat,Washington Wizards,0,2017,AmericanAirlines Arena,"Miami, Florida",,19600.0,NBA
+Atlanta Hawks,Golden State Warriors,1,2009,State Farm Arena,"Atlanta, Georgia",,18729.0,NBA
+Sacramento Kings,Dallas Mavericks,0,2014,Golden 1 Center,"Sacramento, California",,17500.0,NBA
+Memphis Grizzlies,Toronto Raptors,1,2006,FedExForum,"Memphis, Tennessee",,18119.0,NBA
+Sacramento Kings,Phoenix Suns,0,2019,Golden 1 Center,"Sacramento, California",,17500.0,NBA
+Utah Jazz,Dallas Mavericks,1,2003,Vivint Smart Home Arena,"Salt Lake City, Utah",,20148.0,NBA
+Atlanta Hawks,Indiana Pacers,1,2008,State Farm Arena,"Atlanta, Georgia",,18729.0,NBA
+Denver Nuggets,Milwaukee Bucks,1,2012,Pepsi Center,"Denver, Colorado",,19099.0,NBA
+Washington Wizards,Oklahoma City Thunder,1,2007,Capital One Arena,"Washington, D.C.",,20647.0,NBA
+Memphis Grizzlies,Chicago Bulls,1,2005,FedExForum,"Memphis, Tennessee",,18119.0,NBA
+Miami Heat,Boston Celtics,1,2011,AmericanAirlines Arena,"Miami, Florida",,19600.0,NBA
+Minnesota Timberwolves,Indiana Pacers,1,2021,Target Center,"Minneapolis, Minnesota",,19356.0,NBA
+Charlotte Hornets,New York Knicks,1,2008,Spectrum Center,"Charlotte, North Carolina",,19026.0,NBA
+Sacramento Kings,Los Angeles Lakers,1,2014,Golden 1 Center,"Sacramento, California",,17500.0,NBA
+Philadelphia 76ers,Orlando Magic,1,2007,Wells Fargo Center,"Philadelphia, Pennsylvania",,21000.0,NBA
+Memphis Grizzlies,Utah Jazz,0,2007,FedExForum,"Memphis, Tennessee",,18119.0,NBA
+Los Angeles Lakers,Minnesota Timberwolves,0,2004,Staples Center,"Los Angeles, California",,19060.0,NBA
+Atlanta Hawks,Golden State Warriors,1,2006,State Farm Arena,"Atlanta, Georgia",,18729.0,NBA
+Indiana Pacers,Boston Celtics,0,2020,Bankers Life Fieldhouse,"Indianapolis, Indiana",,18345.0,NBA
+Sacramento Kings,Golden State Warriors,1,2009,Golden 1 Center,"Sacramento, California",,17500.0,NBA
+Chicago Bulls,New Orleans Pelicans,0,2017,United Center,"Chicago, Illinois",,21711.0,NBA
+Miami Heat,Atlanta Hawks,0,2008,AmericanAirlines Arena,"Miami, Florida",,19600.0,NBA
+Indiana Pacers,Brooklyn Nets,1,2011,Bankers Life Fieldhouse,"Indianapolis, Indiana",,18345.0,NBA
+Oklahoma City Thunder,Golden State Warriors,0,2018,Chesapeake Energy Arena,"Oklahoma City, Oklahoma",,19163.0,NBA
+Milwaukee Bucks,New York Knicks,0,2020,Fiserv Forum,"Milwaukee, Wisconsin",,17500.0,NBA
+Memphis Grizzlies,Oklahoma City Thunder,0,2011,FedExForum,"Memphis, Tennessee",,18119.0,NBA
+Utah Jazz,Atlanta Hawks,1,2018,Vivint Smart Home Arena,"Salt Lake City, Utah",,20148.0,NBA
+Golden State Warriors,Los Angeles Clippers,1,2018,Chase Center,"San Francisco, California",,19596.0,NBA
+Atlanta Hawks,Charlotte Hornets,1,2009,State Farm Arena,"Atlanta, Georgia",,18729.0,NBA
+Cleveland Cavaliers,Brooklyn Nets,0,2018,Quicken Loans Arena,"Cleveland, Ohio",,20562.0,NBA
+Denver Nuggets,Detroit Pistons,0,2007,Pepsi Center,"Denver, Colorado",,19099.0,NBA
+Los Angeles Clippers,Phoenix Suns,0,2003,Staples Center,"Los Angeles, California",,19060.0,NBA
+Oklahoma City Thunder,San Antonio Spurs,0,2006,Chesapeake Energy Arena,"Oklahoma City, Oklahoma",,19163.0,NBA
+Memphis Grizzlies,Boston Celtics,1,2015,FedExForum,"Memphis, Tennessee",,18119.0,NBA
+Milwaukee Bucks,Brooklyn Nets,0,2005,Fiserv Forum,"Milwaukee, Wisconsin",,17500.0,NBA
+Houston Rockets,New York Knicks,1,2008,Toyota Center,"Houston, Texas",,18104.0,NBA
+San Antonio Spurs,Chicago Bulls,0,2005,AT&T Center,"San Antonio, Texas",,18694.0,NBA
+Portland Trail Blazers,New York Knicks,1,2009,Moda Center,"Portland, Oregon",,19980.0,NBA
+Los Angeles Clippers,Minnesota Timberwolves,0,2015,Staples Center,"Los Angeles, California",,19060.0,NBA
+Indiana Pacers,Cleveland Cavaliers,0,2006,Bankers Life Fieldhouse,"Indianapolis, Indiana",,18345.0,NBA
+Brooklyn Nets,Detroit Pistons,1,2003,Barclays Center,"New York, New York",,19000.0,NBA
+Golden State Warriors,Los Angeles Lakers,1,2022,Chase Center,"San Francisco, California",,19596.0,NBA
+Orlando Magic,Memphis Grizzlies,1,2017,Amway Center,"Orlando, Florida",,20000.0,NBA
+Cleveland Cavaliers,Boston Celtics,0,2021,Quicken Loans Arena,"Cleveland, Ohio",,20562.0,NBA
